@@ -1,1 +1,11 @@
+{
+  // Copilot configuration
+  "codebuddy": "Codespace for learning new skills", "customizations": {
+    "vscode": {
+      "extensions": [
+        "Github.copilot"
+      ]
+    }
+  }
+}
 
